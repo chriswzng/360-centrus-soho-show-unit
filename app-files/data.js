@@ -362,6 +362,12 @@ var APP_DATA = {
           "pitch": -0.3312636870674588,
           "rotation": 4.71238898038469,
           "target": "8-staircase-middle"
+        },
+        {
+          "yaw": -2.4984893262273875,
+          "pitch": 0.10531379733952306,
+          "rotation": 0,
+          "target": "3-dining"
         }
       ],
       "infoHotspots": []
@@ -400,6 +406,12 @@ var APP_DATA = {
           "pitch": 0.7213623522270893,
           "rotation": 0,
           "target": "7-staircase-bottom"
+        },
+        {
+          "yaw": -2.93338495962802,
+          "pitch": -0.2375293052741938,
+          "rotation": 0,
+          "target": "9-staircase-top"
         }
       ],
       "infoHotspots": []
@@ -438,6 +450,18 @@ var APP_DATA = {
           "pitch": 0.1479773972771845,
           "rotation": 1.5707963267948966,
           "target": "10-work-area"
+        },
+        {
+          "yaw": 0.9261705077536107,
+          "pitch": 0.07308670472003698,
+          "rotation": 0,
+          "target": "11-bedroom-entrance"
+        },
+        {
+          "yaw": 2.491850624568041,
+          "pitch": 0.6042742908307908,
+          "rotation": 0,
+          "target": "8-staircase-middle"
         }
       ],
       "infoHotspots": []
@@ -470,7 +494,14 @@ var APP_DATA = {
         "pitch": 0.015153214502898749,
         "fov": 1.5023066394006492
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": 1.4043147450041626,
+          "pitch": 0.07161440726396506,
+          "rotation": 0,
+          "target": "11-bedroom-entrance"
+        }
+      ],
       "infoHotspots": [
         {
           "yaw": 0.4698971560399201,
@@ -510,8 +541,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.0687218162665175,
-          "pitch": 0.15824741812309462,
+          "yaw": -1.99896830328656,
+          "pitch": 0.13219978194089066,
           "rotation": 0.7853981633974483,
           "target": "12-toilet-upstairs"
         },
@@ -520,6 +551,18 @@ var APP_DATA = {
           "pitch": 0.07499857817720823,
           "rotation": 0,
           "target": "13-bedroom-view-1"
+        },
+        {
+          "yaw": -0.9166949956597392,
+          "pitch": 0.07187925064981115,
+          "rotation": 4.71238898038469,
+          "target": "9-staircase-top"
+        },
+        {
+          "yaw": -0.6581258657227966,
+          "pitch": 0.00947174119557026,
+          "rotation": 0,
+          "target": "10-work-area"
         }
       ],
       "infoHotspots": []

@@ -217,6 +217,12 @@ var APP_DATA = {
           "pitch": 0.03800494126955911,
           "rotation": 0,
           "target": "5-living-room-view-2"
+        },
+        {
+          "yaw": -2.6328152281403803,
+          "pitch": 0.1570113817312091,
+          "rotation": 5.497787143782138,
+          "target": "7-staircase-bottom"
         }
       ],
       "infoHotspots": []
